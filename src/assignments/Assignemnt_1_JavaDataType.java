@@ -1,4 +1,4 @@
-package language.basics;
+package assignments;
 
 public class Assignemnt_1_JavaDataType {
 
